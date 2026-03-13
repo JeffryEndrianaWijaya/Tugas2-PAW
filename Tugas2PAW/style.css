@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background: white;
+    padding: 30px;
+    border-radius: 40px;
+    text-align: center;
+    width: 600px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+h5 {
+    color :blue;
+}
+h1, h2{
+    color: #333;
+}
+h3{
+    text-align: left;
+    color : blue;
+}
+
+p{
+    color: #666;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #45a049;
+}
+
+.materi{
+    text-align: left;
+    margin-top: 20px;
+    list-style-type: square;
+}
+.materii{
+    text-align: left;
+    margin-top: 20px;
+}
